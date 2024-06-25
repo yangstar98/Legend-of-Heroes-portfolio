@@ -67,3 +67,12 @@
 >> - ClassSelectScene : 클래스 스킬 정보, 클래스 선택 스왑 및 선택 버튼
 >> - MainScene :  스킬 쿨타임, 습득 아이템, 소리조절, 게임오버 메세지, 스테이지, 코인, 플레이어 HP, 데미지 텍스트, 조이스틱, 몬스터 HP 및 상태이상
 
+### 5. 개발 일지
+
+> - [티스토리](https://yangstar.tistory.com/category/3D%20%ED%8C%80%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%28Legend%20of%20Heroes%29)
+
+### 6. 플레이 영상
+
+> - [유튜브](https://youtu.be/JWQJ6-yybFE)
+
+
